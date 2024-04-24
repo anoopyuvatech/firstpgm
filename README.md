@@ -1,0 +1,2 @@
+# firstpgm
+sample django program
